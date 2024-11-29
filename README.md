@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Antroll/Antroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Anton and I'm a frontend developer.
 
-Here are some ideas to get you started:
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antroll&theme=solarized)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:
+- 💪 TypeScript | 👻 Javascript
+
+Frameworks:
+- ⚛️ React | 🚧 NextJS | 🎩 Gatsby
+
+Tools:
+- 📦 npm/yarn
+- ✨ Vite
+
+Libs:
+- 🕸 web3
+- ®️ Redux
+- 📕 Storybook
+- Ⓜ️ MUI
+- 🌪️ Tailwind CSS
+- 🪜 Bootstrap
